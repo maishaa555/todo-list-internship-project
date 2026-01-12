@@ -19,4 +19,4 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript.
 - Strengthened front-end development fundamentals
 
 ## Live Demo
-(Add GitHub Pages link here)
+(https://maishaa555.github.io/todo-list-internship-project/)
